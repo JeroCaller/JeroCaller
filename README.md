@@ -156,7 +156,7 @@
   </tr>
   <tr><td colspan="4"><br/></td></tr>
   <tr>
-    <td>repo</td>
+    <td align="center">repo</td>
     <td align="center">
       <a href="https://github.com/JeroCaller/boardaily/tree/without-using-api">
         <div style="display:flex;align-items:center;">
