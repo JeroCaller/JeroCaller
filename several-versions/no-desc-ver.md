@@ -1,24 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JeroCaller's%20Github&fontSize=70&animation=scaleIn&fontAlignY=40)
 
-### 지속적인 배움과 최적의 솔루션을 위한 깊은 고민으로 끊임없이 성장하는 개발자, JeroCaller입니다. 
-
-#### 강점
-- 코딩, 구현에만 치중하지 않고 독자, 사용자들도 쉽게 이해할 수 있는 문서 작성.   
-  - 새로 배운 내용을 최대한 이해하기 쉽게 글로 정리하여 기술 블로그에 정리해 오고 있습니다. 
-    - [JeroCaller's blog](https://jerocaller.github.io/)
-  - 라이브러리 및 API의 편리한 사용을 위한 기술 문서 작성 경험이 있습니다. 
-    - [Spoon Suits javadoc](https://github.com/JeroCaller/Spoon-Suits?tab=readme-ov-file#%EC%A0%95%EB%B3%B4---info)
-    - [프로젝트에서 작성한 REST API 명세서](https://github.com/JeroCaller/forklog-backend?tab=readme-ov-file#%EC%82%B0%EC%B6%9C%EB%AC%BC)
-
-- 꾸준한 학습과 기록, 그리고 실제 서비스라 생각하고 코드로 구현.
-  - 학습한 내용을 실제 상황을 가정하여 코드로 구현하며 이를 기록해 나가고 있습니다. 
-    - [공부 기록용 repo](#study-repo), 
-    - [ex) 사용자 게시판 구현을 통한 JPA 개념 정리](https://jerocaller.github.io/spring/Spring-Data-Jpa/)
-
-#### 앞으로 추구하는 방향성
-- 새로운 기술, 지식 학습을 꾸준히 하여 문제해결 능력을 길러 질 좋은 서비스를 제공하는 개발자.
-- 구현뿐만 아니라 코드의 가독성, 안정성, 성능 등 다방면을 고려하고 문제를 해결하는 개발자.
-
 ## Profile
 
 <a href="https://jerocaller.github.io/">
