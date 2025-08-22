@@ -8,7 +8,7 @@
     - [JeroCaller's blog](https://jerocaller.github.io/)
   - 라이브러리 및 API의 편리한 사용을 위한 기술 문서 작성 경험이 있습니다. 
     - [Spoon Suits javadoc](https://github.com/JeroCaller/Spoon-Suits?tab=readme-ov-file#%EC%A0%95%EB%B3%B4---info)
-    - [프로젝트에서 작성한 REST API 명세서](https://github.com/JeroCaller/forklog-backend?tab=readme-ov-file#%EC%82%B0%EC%B6%9C%EB%AC%BC)
+    - [프로젝트에서 작성한 REST API 명세서](https://github.com/JeroCaller/forklog-backend/wiki/%EC%82%B0%EC%B6%9C%EB%AC%BC#api-%EC%A0%95%EC%9D%98%EC%84%9C)
 
 - 꾸준한 학습과 기록, 그리고 실제 서비스라 생각하고 코드로 구현.
   - 학습한 내용을 실제 상황을 가정하여 코드로 구현하며 이를 기록해 나가고 있습니다. 
@@ -103,6 +103,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea">
+<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> 
 
 ### etc.
 

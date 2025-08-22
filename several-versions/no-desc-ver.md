@@ -84,6 +84,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea">
+<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> 
 
 ### etc.
 

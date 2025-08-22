@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JeroCaller's%20Github&fontSize=70&animation=scaleIn&fontAlignY=40)
 
 <details>
-<summary>프로필 보기</summary>
+<summary>:book: :point_left: 프로필 보기</summary>
 <div markdown="1">
 
 ## Profile
@@ -88,6 +88,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea">
+<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> 
 
 ### etc.
 
