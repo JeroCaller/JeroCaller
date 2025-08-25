@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/spring oauth2 client-6DB33F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=FAF9EE" />
+<img src="https://img.shields.io/badge/quartz-%23ED8B00?style=for-the-badge&logoColor=white">
 
 ### FE
 
